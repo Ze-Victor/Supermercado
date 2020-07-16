@@ -1,8 +1,8 @@
-#Compilação:
+# Compilação:
 - make
 - ./supermercado
 
-#Menu:
+# Menu:
 
 - Irá aparecer uma tela de opções para o cliente.
 - O menu já inicia com um cliente (Cliente 1);
